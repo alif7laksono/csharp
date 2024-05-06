@@ -1,0 +1,15 @@
+/Users/aliflaksono/csharp/day1/bin/Debug/net8.0/day1
+/Users/aliflaksono/csharp/day1/bin/Debug/net8.0/day1.deps.json
+/Users/aliflaksono/csharp/day1/bin/Debug/net8.0/day1.runtimeconfig.json
+/Users/aliflaksono/csharp/day1/bin/Debug/net8.0/day1.dll
+/Users/aliflaksono/csharp/day1/bin/Debug/net8.0/day1.pdb
+/Users/aliflaksono/csharp/day1/obj/Debug/net8.0/day1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aliflaksono/csharp/day1/obj/Debug/net8.0/day1.AssemblyInfoInputs.cache
+/Users/aliflaksono/csharp/day1/obj/Debug/net8.0/day1.AssemblyInfo.cs
+/Users/aliflaksono/csharp/day1/obj/Debug/net8.0/day1.csproj.CoreCompileInputs.cache
+/Users/aliflaksono/csharp/day1/obj/Debug/net8.0/day1.sourcelink.json
+/Users/aliflaksono/csharp/day1/obj/Debug/net8.0/day1.dll
+/Users/aliflaksono/csharp/day1/obj/Debug/net8.0/refint/day1.dll
+/Users/aliflaksono/csharp/day1/obj/Debug/net8.0/day1.pdb
+/Users/aliflaksono/csharp/day1/obj/Debug/net8.0/day1.genruntimeconfig.cache
+/Users/aliflaksono/csharp/day1/obj/Debug/net8.0/ref/day1.dll
